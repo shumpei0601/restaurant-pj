@@ -4,4 +4,4 @@ URL:https://restaurant-pj.herokuapp.com/login
 ログイン方法
 Username：テスト太郎
 email:test@gmail
-Password:Dnvidn12
+Password:Dnvidn1
